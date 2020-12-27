@@ -8,7 +8,7 @@ void print()
     std::cout << "Hello Skillbox!\n";
 }
 /*
-hacamaton is bad
+hacamaton is bad or not
 
 
 
